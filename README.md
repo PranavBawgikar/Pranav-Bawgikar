@@ -1,7 +1,7 @@
 
 ![png_20230506_120714_0000](https://user-images.githubusercontent.com/102728016/236607748-07df79cb-ec74-4bbc-be2e-392cded699b4.png)
 
-Welcome to my GitHub profile, where I am passionate about building the future of the internet with blockchain and the metaverse. As a student of web development and decentralized technologies, I am constantly exploring new ideas in these exciting fields. Join me as we push the boundaries and transform industries, one block at a time.
+Welcome to my GitHub profile, (https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png) where I am passionate about building the future of the internet with blockchain and the metaverse. As a student of web development and decentralized technologies, I am constantly exploring new ideas in these exciting fields. Join me as we push the boundaries and transform industries, one block at a time.
 
 - 📫 How to reach me **bawgikarpranav09@gmail.com**
 
