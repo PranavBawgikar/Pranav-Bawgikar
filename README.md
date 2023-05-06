@@ -1,5 +1,5 @@
 
-![png_20230506_120714_0000](https://user-images.githubusercontent.com/102728016/236607748-07df79cb-ec74-4bbc-be2e-392cded699b4.png = 640x320)
+![png_20230506_120714_0000](https://user-images.githubusercontent.com/102728016/236607748-07df79cb-ec74-4bbc-be2e-392cded699b4.png width="640" height="320")
 
 I'm Pranav Bawgikar, and I am a Web Development and Blockchain Enthusiast. I really enjoy learning languages and frameworks like React and React Native.
 
