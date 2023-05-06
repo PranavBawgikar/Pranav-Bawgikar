@@ -11,6 +11,11 @@ Welcome to my GitHub profile, where I am passionate about building the future of
 <strong>LIBRARIES/FRAMEWORKS</strong><br><br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  <br><br>
 <strong>DATABASES</strong><br><br> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/pranavbawgikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranavbawgikar" height="30" width="40" /></a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PranavBawgikar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PranavBawgikar&theme=dark&hide_border=false)<br/>
