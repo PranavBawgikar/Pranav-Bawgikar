@@ -18,4 +18,4 @@ As a student of web development and decentralized technologies, I am constantly 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PranavBawgikar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavBawgikar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4k6zbeo7qfi5lbn07w7s9c83t&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4k6zbeo7qfi5lbn07w7s9c83t&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
