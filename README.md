@@ -1,5 +1,4 @@
 
-![png_20230506_120714_0000](https://user-images.githubusercontent.com/102728016/236607748-07df79cb-ec74-4bbc-be2e-392cded699b4.png)
 
 Welcome to my GitHub profile, I'm a 21yo software engineer passionate about building fast, accessible and friendly UIs. <img src="https://user-images.githubusercontent.com/102728016/236609607-5fda1753-e4ac-4f0a-96e9-c4234b8ecfae.png" width="23" height="23" alt="rocket_1f680">
 As a student of web development and decentralized technologies, I am constantly exploring new ideas in these exciting fields. Join me as we push the boundaries and transform industries, one block at a time.
