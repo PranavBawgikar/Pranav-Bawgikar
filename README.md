@@ -13,7 +13,7 @@ currently working <a href="https://github.com/CDNA-Technologies">@nuclei</a> as 
 <br />
 <br />
 my goal is to learn something new every day, improve my skills, solve user and business issues and ultimately get shit done. fast. <br /> 
-i love coding, creating things through art, photography (i'm bad at it) and music.
+i love coding, creating things through art, <a href="https://pranavbwg.bearblog.dev/">photography (i'm bad at it)</a> and music.
 
 <br />
 <br />
